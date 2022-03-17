@@ -18,5 +18,6 @@ last entry is marked with length=0.
   
 The default data storage address is 0x200 unless you decide to change that to enlarge the space for more menu entries.
 
+I like using the Nano on a protoboard for easy hookup.  A 6 volt 150ma lamp is included in the power feed from the Nano to protect against accidental shorts.  Incandescent lamps have a 10 to 1 increase in resistance when 'hot'.  This part is not required to use this setup.
   
   
