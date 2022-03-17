@@ -10,8 +10,11 @@ A simple directory entry is created for each download containing the start addre
 Here is the directory structue.  Values in [] are 16 bit low byte first (little-endian)
 
 0x10 - first meu entry
+
 [address][length][spare][spare] (1-7 ascii chars),0
+
 0x20 - second menu entry
+
 (etc)
   
 last entry is marked with length=0.
